@@ -1,5 +1,1 @@
-Esta es la biogrfia en txt
-
-tiene 29 years 
-
-es informatico 
+Felipe esta probando git 
