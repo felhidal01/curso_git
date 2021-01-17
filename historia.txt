@@ -1,4 +1,5 @@
 Felipe esta probando git 
-1
-esta historia esta probando el checkout
-master version
+cabecera 1
+esti esta probando el checkout
+procando ec shift zz
+
